@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e02713a9-d50b-4fa4-8455-0c9afdd4e1df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GCTAddDelightFromDing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCTAddDelightFromDing/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCTAddDelightFromDing/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCTAddDelightFromDing/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCTAddDelightFromDing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCTAddDelightFromDing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCTAddDelightFromDing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/Argment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/models/delight_GCT_encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/modules/GCT_encoder_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/modules/attention_in_delight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/modules/deLight_GCT_encoder_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/modules/delight_transformer_encoder_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/modules/embedder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/modules/pooler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/modules/transformer_encoder_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/process_mimiciv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/Delight_Transformer/utils_custom_mimic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/gct-pytorch-main/process_mimic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transformer/gct-pytorch-main/train_mimic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jizhen_web/jizhen-fe" beforeDir="false" afterPath="$PROJECT_DIR$/../jizhen_web/jizhen-fe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jizhen_wexin/jizhen" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2iSlFNUU8nWE8PBtkgqGhav3Gh6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e02713a9-d50b-4fa4-8455-0c9afdd4e1df" name="Changes" comment="" />
+      <created>1719491755622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719491755622</updated>
+      <workItem from="1719491756759" duration="9054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
