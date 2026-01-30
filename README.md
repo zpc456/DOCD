@@ -35,6 +35,13 @@ Cite
 ----
 If you find the paper or the implementation helpful, please cite the following paper:
 ```
+@article{yin2026dual,
+  title={Dual Ontology-enhanced Clinical Decision Learning for First-admission Mortality Prediction},
+  author={Yin, Fangchen and Nie, Hu and Pu, Xiaorong and Zheng, Pengcheng and Zhu, Qilin and Ren, Yazhou and Deng, Lijia},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2026},
+  publisher={IEEE}
+}
 
 ```
 
