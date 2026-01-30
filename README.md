@@ -42,6 +42,5 @@ If you find the paper or the implementation helpful, please cite the following p
   year={2026},
   publisher={IEEE}
 }
-
 ```
 
